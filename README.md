@@ -1,4 +1,4 @@
-### Hi there, My name is Nathan Víctor de Faria 👋
+### Hi there, This is my github for studying purposes 👋
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathan-faria-2061b8201/)
 
