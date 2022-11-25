@@ -1,16 +1,28 @@
-### Hi there 👋
+### Hi there, My name is Nathan Víctor de Faria 👋
 
-<!--
-**ichbinnichts/ichbinnichts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathan-faria-2061b8201/)
 
-Here are some ideas to get you started:
+![Nathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ichbinnichts&show_icons=true&theme=tokyonight)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies
+<div style="display: inline_block"></br/>
+
+  <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+
+</div>
+
+<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ichbinnichts&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<br/>
+<div style="">
+<h2 style="color: darkblue">References</h2>
+<hr>
+<p style="color: lightblue">https://dev.to/envoy_/150-badges-for-github-pnk<p>
+
+<p style="color: lightblue">https://github.com/anuraghazra/github-readme-stats</p>
+</div>
