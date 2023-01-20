@@ -2,7 +2,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathan-faria-2061b8201/)
 
-![Nathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ichbinnichts&show_icons=true&theme=radical)
+![Nathan's GitHub stats](https://github-readme-stats-mu-one-59.vercel.app/api?username=ichbinnichts&show_icons=true&theme=radical)
 
 ## Technologies
 <div style="display: inline_block"></br/>
@@ -17,7 +17,7 @@
 
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ichbinnichts&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats-mu-one-59.vercel.app/api/top-langs/?username=ichbinnichts&layout=compact&theme=radical)
 
 <br/>
 <div style="">
