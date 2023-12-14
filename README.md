@@ -1,4 +1,6 @@
-### Hi there, This is my github for studying purposes 👋
+### # Hi there, I'm Nathan Víctor de Faria! 👋
+
+Welcome to my GitHub profile. I'm passionate about Technology, games, books, tv shows, movies, etc and I love building web apps and softwares. Here you'll find a collection of my projects, ranging from angular in frontend to java and .NET in backend. 👋
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathan-faria-2061b8201/)
 
