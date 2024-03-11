@@ -4,7 +4,7 @@ Welcome to my GitHub profile. I'm passionate about Technology, games, books, tv 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathan-faria-2061b8201/)
 
-<div>
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&locale=pt-br&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&hide_border=false&username=ichbinnichts" height="150" alt="stats graph"  />
   <br>
 </div>
@@ -27,6 +27,7 @@ Welcome to my GitHub profile. I'm passionate about Technology, games, books, tv 
 
 <br/>
 
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?hide_title=false&locale=pt-br&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&username=ichbinnichts" height="150" alt="languages graph"  />
 </div>
 
