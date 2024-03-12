@@ -51,12 +51,3 @@ Welcome to my GitHub profile. I'm passionate about Technology, games, books, tv 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ichbinnichts&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" height="150" alt="languages graph"  />
 </div>
-
-<br/>
-<div style="">
-<h4 style="color: darkblue">References</h4>
-<hr>
-<p style="color: lightblue">https://dev.to/envoy_/150-badges-for-github-pnk<p>
-
-<p style="color: lightblue">https://github.com/anuraghazra/github-readme-stats</p>
-</div>
