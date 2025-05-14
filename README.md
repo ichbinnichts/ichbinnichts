@@ -5,7 +5,7 @@
     </a>
 </h1>
 
-Welcome to my GitHub profile. I'm passionate about Technology, games, books, tv shows, movies, etc and I love building web apps and softwares. Here you'll find a collection of my projects, ranging from Angular and Flutter in frontend to Spring and Golang in backend. 👋
+Welcome to my GitHub profile. I'm passionate about Technology, games, books, tv shows, movies, etc and I love building web apps and softwares. Here you'll find a collection of my projects, ranging from Angular and Flutter in frontend to Spring and .NET in backend. 👋
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathan-faria-2061b8201/)
 
